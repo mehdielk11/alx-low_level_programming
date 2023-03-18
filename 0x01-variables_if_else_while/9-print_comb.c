@@ -1,6 +1,13 @@
 #include <stdio.h>
 
-// print the numbers from 0 to 9 separated by commas and spaces
+/**
+ * main - Entry point
+ * Description: It prints the numbers from 0-9
+ *		following by comma and finally
+ *		by a new line using just
+ *		`putchar` and ASCII numbers.
+ * Return: Always 0 (success)
+ */
 int main(void)
 {
 	int i;
