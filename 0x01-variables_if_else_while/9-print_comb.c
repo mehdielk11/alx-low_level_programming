@@ -1,8 +1,6 @@
 #include <stdio.h>
 
-/* This program prints the numbers from 0 to 9 separated by commas and spaces.
-   It uses a for loop to iterate through the numbers and putchar() function to print them.
-*/
+// print the numbers from 0 to 9 separated by commas and spaces
 int main(void)
 {
 	int i;
